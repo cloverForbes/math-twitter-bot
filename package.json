@@ -1,0 +1,11 @@
+{
+  "name": "math-twitter-bot",
+  "version": "1.0.0",
+  "description": "Twitter bot that tweets random math quotes",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
